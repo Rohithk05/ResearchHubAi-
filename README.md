@@ -279,7 +279,7 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
-Your Name - @yourtwitter - your.email@example.com
+rohithkarthikeya05@gmail.com
 
 Project Link: https://github.com/yourusername/researchhub-ai
 
